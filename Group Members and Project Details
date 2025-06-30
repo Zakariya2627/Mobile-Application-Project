@@ -1,0 +1,53 @@
+Group Members
+1) Muhammad Zakariya (37581)
+2) Rayyan Naveed (37562)
+3) Ishfaq Ahmed (37625)
+
+Project Details 
+📱 Semester Project - Flutter Mobile App
+🔍 Project Overview
+This project is a Flutter-based mobile application developed as part of our Semester Project. The app was designed and implemented to demonstrate our understanding of cross-platform mobile development using Dart and Flutter.
+
+🎯 Objective
+To build a fully functional, cross-platform mobile application with modern UI/UX, using core Flutter concepts including:
+
+Widgets
+
+State management
+
+Navigation
+
+External libraries
+
+Real-time data (if applicable)
+
+🧠 What We Did
+Designed the UI layout using Flutter widgets.
+
+Used Dart for app logic and integration.
+
+Configured app dependencies in pubspec.yaml.
+
+Ensured the app runs on both Android and iOS platforms.
+
+Implemented features like navigation, forms, and API integration (if applicable).
+
+🧰 Technologies Used
+Framework: Flutter
+
+Language: Dart
+
+Tool: Android Studio / VS Code
+
+State Management: (e.g., setState, Provider, Bloc – whichever you used)
+
+Others: Firebase, REST API (if any)
+
+📁 Folder Structure
+bash
+Copy
+Edit
+/lib         → Dart source code (main UI and logic)
+/assets      → Images, icons, etc.
+/test        → Unit tests (if written)
+/pubspec.yaml → Project dependencies and configuration
